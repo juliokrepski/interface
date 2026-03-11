@@ -1,3 +1,5 @@
 patch retail/
 *.u
 *.xdat
+patch retail/
+interface.xdat
