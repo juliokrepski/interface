@@ -1,0 +1,897 @@
+Log: Log file open, 01/22/24 05:05:42
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows Vista 6.2 (Build: 9200)
+Init: Version: 2110
+Init: Compiled: Jun 19 2007 13:10:06
+Init: Command line: 
+Init: Base directory: J:\0004 Lineage II Interlude - Limpio\L2Editor_Interlude\
+Init: Character set: Unicode
+Log: Bound to Core.dll
+Log: Bound to Editor.dll
+Log: Bound to Engine.dll
+Log: Bound to Window.dll
+Init: Object subsystem initialized
+Init: CPU Page size=4096, Processors=8
+Init: CPU Detected: PentiumPro-class processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: CPU Speed=3419.324270 MHz
+Init: Memory total: Phys=2097151K Pagef=4194303K Virt=2097024K
+Init: Working set: 32000 / 159000
+Log: Bound to IpDrv.dll
+Log: Bound to ALAudio.dll
+Log: Bound to Fire.dll
+Init: Unreal engine initialized
+Init: ALAudio: subsystem initialized.
+Init: Transaction tracking system initialized
+Log: Bound to WinDrv.dll
+Init: Client initialized
+Log: Bound to D3DDrv.dll
+Log: VERIFY: Class D3DRenderDevice size problem; Script=364816 C++=204
+Init: Direct3D adapters detected:
+Log: 	nvldumd.dll/NVIDIA GeForce GTX 1650
+Init: D3D Driver: MaxTextureBlendStages=8
+Init: D3D Driver: MaxSimultaneousTextures=8
+Init: D3D Driver: MaxActiveLights=8
+Init: D3D Driver: MaxPrimitiveCount=16777215
+Init: D3D Driver: MaxVertexIndex=16777215
+Init: D3D Driver: MaxStreams=16
+Init: D3D Driver: MaxStreamStride=255
+Init: D3D Driver: MaxVertexShaderConst=256
+Init: D3D Driver: VertexShaderVersion=3.0
+Init: D3D Driver: PixelShaderVersion=3.0
+Init: D3D Driver: AGP support detected
+Init: D3D Driver: Supports trilinear
+Init: D3D Driver: Supports BLENDDIFFUSEALPHA
+Init: D3D Driver: Supports LOD biasing
+Init: D3D Driver: Supports Z biasing
+Init: D3D Driver: Supports D3DTOP_ADDSIGNED2X
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAP
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE
+Init: D3D Driver: Supports D3DTOP_DOTPRODUCT3
+Init: D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR
+Init: D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA
+Init: D3D Driver: Supports D3DTEXOPCAPS_BLENDDIFFUSEALPHA
+Init: Unreal Engine Direct3D support - internal version: SB3
+Init: D3D Device: szDriver=nvldumd.dll
+Init: D3D Device: szDescription=NVIDIA GeForce GTX 1650
+Init: D3D Device: wProduct=31
+Init: D3D Device: wVersion=0
+Init: D3D Device: wSubVersion=15
+Init: D3D Device: wBuild=4665
+Init: D3D Device: dwVendorId=4318
+Init: D3D Device: dwDeviceId=8584
+Init: D3D Device: dwSubSysId=-1919478686
+Init: D3D Device: dwRevision=161
+Init: D3D Detected: NVidia video card
+Init: D3D Detected: NVidia video card
+Init: D3D Device: using cubemaps [with mipmaps]
+Log: L2CompiledShader.dat not found
+Init: Editor engine initialized
+Log: Startup time: 0.586995 seconds
+Cmd: MODE MAPEXT=unr
+Log: VERIFY: Class CubeBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class CubeBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class CurvedStairBuilder size problem; Script=140 C++=108
+Log: VERIFY: Class CurvedStairBuilder size problem; Script=140 C++=108
+Log: VERIFY: Class SpiralStairBuilder size problem; Script=140 C++=108
+Log: VERIFY: Class SpiralStairBuilder size problem; Script=140 C++=108
+Log: VERIFY: Class LinearStairBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class LinearStairBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class TerrainBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class TerrainBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class SheetBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class SheetBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class CylinderBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class CylinderBuilder size problem; Script=132 C++=108
+Log: VERIFY: Class ConeBuilder size problem; Script=136 C++=108
+Log: VERIFY: Class ConeBuilder size problem; Script=136 C++=108
+Log: VERIFY: Class VolumetricBuilder size problem; Script=124 C++=108
+Log: VERIFY: Class VolumetricBuilder size problem; Script=124 C++=108
+Log: VERIFY: Class TetrahedronBuilder size problem; Script=120 C++=108
+Log: VERIFY: Class TetrahedronBuilder size problem; Script=120 C++=108
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for TerrainHeightmap
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Creating device
+Log: CreateDevice(Adapter:0 ,DeviceType:1 ,hFocusWindow:920340 ,BehaviorFlags:66 ,pPresentationParameters:1920 ,ppReturnedDeviceInterface:1080 
+Init: D3D Driver: CreateDevice: will use hardware transform and lighting.
+Init: D3D Driver: CreateDevice: will use hardware vertex processing
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for TerrainLayers
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for TerrainDecoLayers
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for MatineeScenes
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for MatineeActions
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for MatineeSubActions
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for U2Viewport0
+Localization: No localization: WinDrv.General.ViewTop (int)
+Log: SIZE_RESTORED
+Localization: No localization: WinDrv.General.ViewTop (int)
+Log: Opened viewport
+Localization: No localization: WinDrv.General.ViewTop (int)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewTop (int)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for U2Viewport1
+Localization: No localization: WinDrv.General.ViewTop (int)
+Localization: No localization: WinDrv.General.ViewFront (int)
+Log: SIZE_RESTORED
+Localization: No localization: WinDrv.General.ViewFront (int)
+Log: Opened viewport
+Localization: No localization: WinDrv.General.ViewFront (int)
+Localization: No localization: WinDrv.General.ViewFront (int)
+Localization: No localization: WinDrv.General.ViewFront (int)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewFront (int)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for U2Viewport2
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewTop (int)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewFront (int)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for MeshViewer
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for AnimationViewer
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for PrefabBrowser
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Cmd: CAMERA UPDATE FLAGS=545425097 REN=20 NAME=PrefabBrowser
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for StaticMeshBrowser
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: Allocating 65536 byte dynamic vertex buffer.
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for TextureBrowser
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Log: SIZE_RESTORED
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Log: Opened viewport
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for TextureBrowserUsed
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Tiny font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono': Failed to find object 'Font WarfareFonts.FontMono'
+Log: Could not load stock Small font WarfareFonts.FontMono
+Warning: Failed to load 'Font WarfareFonts.FontMono800x600': Failed to find object 'Font WarfareFonts.FontMono800x600'
+Log: Could not load stock Medium font WarfareFonts.FontMono800x600
+Init: Input system initialized for TextureBrowserMRU
+Log: SIZE_RESTORED
+Log: Opened viewport
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: SIZE_RESTORED
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: D3D Driver: Local Device Memory = 3145728 KBytes
+Init: D3D Driver: Nonlocal Device Memory = 1048512 KBytes
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="Editor" GROUP=""
+Cmd: OBJ LOAD FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI.utx"
+Warning: Property bSplit9Texture of Class Engine.Texture not found
+Warning: Skipping 0 bytes of type 3
+Warning: Property Split9X1 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9X2 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9X3 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y1 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y2 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y3 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property bSplit9Texture of Class Engine.Texture not found
+Warning: Skipping 0 bytes of type 3
+Warning: Property Split9X1 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9X2 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9X3 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y1 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y2 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y3 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property bSplit9Texture of Class Engine.Texture not found
+Warning: Skipping 0 bytes of type 3
+Warning: Property Split9X1 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9X2 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9X3 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y1 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y2 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Warning: Property Split9Y3 of Class Engine.Texture not found
+Warning: Skipping 4 bytes of type 2
+Log: Matched Viewport TerrainHeightmap
+Log: Matched Viewport TerrainLayers
+Log: Matched Viewport TerrainDecoLayers
+Log: Matched Viewport MatineeScenes
+Log: Matched Viewport MatineeActions
+Log: Matched Viewport MatineeSubActions
+Log: Matched Viewport U2Viewport0
+Log: Matched Viewport U2Viewport1
+Log: Matched Viewport U2Viewport2
+Log: Matched Viewport MeshViewer
+Log: Matched Viewport StaticMeshBrowser
+Log: Matched Viewport TextureBrowser
+Log: Matched Viewport TextureBrowserUsed
+Log: Matched Viewport TextureBrowserMRU
+Log: Allocating 65536 byte dynamic vertex buffer.
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="Editor" GROUP=""
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE FLAGS=545425097 REN=20 NAME=PrefabBrowser
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Close.dds" NAME="Frame_Close" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Close.dds)
+Log: Imported Texture SilentUI.Frame_Close
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frame_Close
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Close_Down.dds" NAME="Frame_Close_Down" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Close_Down.dds)
+Log: Imported Texture SilentUI.Frame_Close_Down
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frame_Close_Down
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Close_Over.dds" NAME="Frame_Close_Over" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Close_Over.dds)
+Log: Imported Texture SilentUI.Frame_Close_Over
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frame_Close_Over
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Min.dds" NAME="Frame_Min" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Min.dds)
+Log: Imported Texture SilentUI.Frame_Min
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frame_Min
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Min_Down.dds" NAME="Frame_Min_Down" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Min_Down.dds)
+Log: Imported Texture SilentUI.Frame_Min_Down
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frame_Min_Down
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Min_Over.dds" NAME="Frame_Min_Over" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frame_Min_Over.dds)
+Log: Imported Texture SilentUI.Frame_Min_Over
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frame_Min_Over
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Icon_DF_Common_Adena.dds)
+Log: Imported Texture SilentUI.Icon_DF_Common_Adena
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Icon_DF_Common_Adena
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Icon_DF_Common_Weight.dds)
+Log: Imported Texture SilentUI.Icon_DF_Common_Weight
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Icon_DF_Common_Weight
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_AdenaBox.dds" NAME="Inventory_AdenaBox" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_AdenaBox.dds)
+Log: Imported Texture SilentUI.Inventory_AdenaBox
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_AdenaBox
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Cry.dds" NAME="Inventory_Btn_Cry" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Cry.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Cry
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Cry
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Cry_Drag.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Cry_Drag
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Cry_Drag
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Sort.dds" NAME="Inventory_Btn_Sort" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Sort.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Sort
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Sort
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Sort_Down.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Sort_Down
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Sort_Down
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Sort_Over.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Sort_Over
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Sort_Over
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Trash.dds" NAME="Inventory_Btn_Trash" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Trash.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Trash
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Trash
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Btn_Trash_Auto.dds)
+Log: Imported Texture SilentUI.Inventory_Btn_Trash_Auto
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Btn_Trash_Auto
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\ItemWindow_DF_Slotbox_2x2.dds)
+Log: Imported Texture SilentUI.ItemWindow_DF_Slotbox_2x2
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.ItemWindow_DF_Slotbox_2x2
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE FLAGS=545425097 REN=20 NAME=PrefabBrowser
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: CameraRotationOn 
+Cmd: UseAutoTrackingPawnOff 
+Cmd: StopMouse
+Cmd: OnRelease CameraRotationOff 
+Cmd: OnRelease UseAutoTrackingPawnOn 
+Cmd: OnRelease MoveMouse
+Cmd: FixedDefaultCamera OnRelease MaxPressedTime=200.0 
+Cmd: CameraRotationOff 
+Cmd: UseAutoTrackingPawnOn 
+Cmd: MoveMouse
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: PlayerPawnMoveTo 
+Cmd: POLY SET TEXTURE=179952864
+Log: BeginTrans Poly Set
+Cmd: CameraRotationOn 
+Cmd: UseAutoTrackingPawnOff 
+Cmd: StopMouse
+Cmd: OnRelease CameraRotationOff 
+Cmd: OnRelease UseAutoTrackingPawnOn 
+Cmd: OnRelease MoveMouse
+Cmd: FixedDefaultCamera OnRelease MaxPressedTime=200.0 
+Cmd: CameraRotationOff 
+Cmd: UseAutoTrackingPawnOn 
+Cmd: MoveMouse
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: PlayerPawnMoveTo 
+Cmd: POLY SET TEXTURE=179940000
+Log: BeginTrans Poly Set
+Cmd: CameraRotationOn 
+Cmd: UseAutoTrackingPawnOff 
+Cmd: StopMouse
+Cmd: OnRelease CameraRotationOff 
+Cmd: OnRelease UseAutoTrackingPawnOn 
+Cmd: OnRelease MoveMouse
+Cmd: FixedDefaultCamera OnRelease MaxPressedTime=200.0 
+Cmd: CameraRotationOff 
+Cmd: UseAutoTrackingPawnOn 
+Cmd: MoveMouse
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: PlayerPawnMoveTo 
+Cmd: POLY SET TEXTURE=296789936
+Log: BeginTrans Poly Set
+Cmd: CameraRotationOn 
+Cmd: UseAutoTrackingPawnOff 
+Cmd: StopMouse
+Cmd: OnRelease CameraRotationOff 
+Cmd: OnRelease UseAutoTrackingPawnOn 
+Cmd: OnRelease MoveMouse
+Cmd: FixedDefaultCamera OnRelease MaxPressedTime=200.0 
+Cmd: CameraRotationOff 
+Cmd: UseAutoTrackingPawnOn 
+Cmd: MoveMouse
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand.tga)
+Log: Imported Texture SilentUI.Frames_df_Btn_Expand
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frames_df_Btn_Expand
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Down.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Down.tga)
+Log: Imported Texture SilentUI.Frames_df_Btn_Expand_Down
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frames_df_Btn_Expand_Down
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Over.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Over.tga)
+Log: Imported Texture SilentUI.Frames_df_Btn_Expand_Over
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frames_df_Btn_Expand_Over
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Gauge_CP_BG.tga" NAME="Gauge_CP_BG" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Gauge_CP_BG.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Gauge_CP_BG.tga)
+Log: Imported Texture SilentUI.Gauge_CP_BG
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Gauge_CP_BG
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InstanceBtn.tga" NAME="InstanceBtn" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InstanceBtn.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InstanceBtn.tga)
+Log: Imported Texture SilentUI.InstanceBtn
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.InstanceBtn
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InstanceBtn_Over.tga" NAME="InstanceBtn_Over" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InstanceBtn_Over.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InstanceBtn_Over.tga)
+Log: Imported Texture SilentUI.InstanceBtn_Over
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.InstanceBtn_Over
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Equip_BG.tga" NAME="Inventory_Equip_BG" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Equip_BG.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Inventory_Equip_BG.tga)
+Log: Imported Texture SilentUI.Inventory_Equip_BG
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Inventory_Equip_BG
+Cmd: TEXTURE IMPORT FILE="J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InventoryWnd_Min3.tga" NAME="InventoryWnd_Min3" PACKAGE="SilentUI" MIPS=1 MASKED=1 DXT=-1 Alpha=1 NormalLOD=0
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InventoryWnd_Min3.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\InventoryWnd_Min3.tga)
+Log: Imported Texture SilentUI.InventoryWnd_Min3
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.InventoryWnd_Min3
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE FLAGS=545425097 REN=20 NAME=PrefabBrowser
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="SilentUI" GROUP=""
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Cmd: PlayerPawnMoveTo 
+Cmd: POLY SET TEXTURE=293953040
+Log: BeginTrans Poly Set
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: PlayerPawnMoveTo 
+Cmd: POLY SET TEXTURE=293932136
+Log: BeginTrans Poly Set
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: PlayerPawnMoveTo 
+Cmd: POLY SET TEXTURE=293953040
+Log: BeginTrans Poly Set
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomInPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Cmd: ZoomOutPress Speed=20.0
+Localization: No localization: WinDrv.General.ViewLeft (int)
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand.tga)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Imported Texture SilentUI.Frames_df_Btn_Expand
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frames_df_Btn_Expand
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Down.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Down.tga)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Imported Texture SilentUI.Frames_df_Btn_Expand_Down
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frames_df_Btn_Expand_Down
+Log: FactoryCreateBinary: Texture with L2TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Over.tga)
+Log: Bad image format for texture import
+Log: FactoryCreateBinary: Texture with TextureFactory (0 0 J:\0004 Lineage II Interlude - Limpio\system\GameGuard\SilentUI\Frames_df_Btn_Expand_Over.tga)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Imported Texture SilentUI.Frames_df_Btn_Expand_Over
+Cmd: TEXTURE DETAILHACK NAME=SilentUI.Frames_df_Bt

@@ -1,0 +1,53 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Clear",
+            "type": "shell",
+            "command": "rm Core.u,Engine.u,Interface.u -ea Ignore; $null",
+            "options": {
+                "cwd": "${workspaceFolder}/Interlude/System"
+            }
+        },
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "./Compiler",
+            "args": ["make", "-NoBind"],
+            "dependsOrder": "sequence",
+            "dependsOn": ["Clear"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Deploy",
+            "type": "shell",
+            "command": "cp",
+            "args": [
+                "Interface.u",
+                "E:/descargas/l2farissource/Compilador de interface Lotus/Compiler L2Editor Lotus Interface/Interlude/System/interface.u"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/Interlude/System"
+            },
+            "group": {
+                "kind": "test",
+                "isDefault": false
+            }
+        },
+        {
+            "label": "Run Client",
+            "type": "shell",
+            "command": "./L2.exe",
+            "options": {
+                "cwd": "E:/descargas/Gracia_Final_system/Lineage_2_imperium/Lineage2/system"
+            },
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}

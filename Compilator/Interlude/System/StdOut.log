@@ -1,0 +1,502 @@
+Log file open, 02/21/26 16:29:01
+----------------------------Core - Release----------------------------
+---------------------------Editor - Release---------------------------
+---------------------------Engine - Release---------------------------
+--------------------------NWindow - Release---------------------------
+---------------------------EmuDev - Release---------------------------
+-------------------------Interface - Release--------------------------
+Analyzing...
+Parsing UICommonAPI
+Parsing AbnormalStatusWnd
+Parsing ActionWnd
+Parsing AutoBuffWnd
+Parsing AutoPotionsWnd
+Parsing AutoSkillWnd
+Parsing CalculatorWnd
+Parsing CharSelectClassicWnd
+Parsing ChatHideWnd
+Parsing ChatWaitWnd
+Parsing WhispAlertWnd
+Parsing PartyMatchWnd
+Parsing ChatWnd
+Parsing ClanWnd
+Parsing GMClanWnd
+Parsing ContextMenuWnd
+Parsing DeliverWnd
+Parsing DetailStatusWnd
+Parsing GMDetailStatusWnd
+Parsing DialogBox
+Parsing DropWnd
+Parsing DuelManager
+Parsing EulaClassicWnd
+Parsing EventMatchGMFenceWnd
+Parsing EventMatchGMMsgWnd
+Parsing EventMatchGMWnd
+Parsing EventMatchObserverWnd
+Parsing EventMatchSpecialMsgWnd
+Parsing ExpBarWnd
+Parsing FishViewportWnd
+Parsing GMFindTreeWnd
+Parsing PrivateShopWnd
+Parsing QuitReportWnd
+Parsing InventoryWnd
+Parsing GMInventoryWnd
+Parsing MagicSkillWnd
+Parsing GMMagicSkillWnd
+Parsing QuestTreeWnd
+Parsing GMQuestWnd
+Parsing GMSnoopWnd
+Parsing WarehouseWnd
+Parsing GMWarehouseWnd
+Parsing GMWnd
+Parsing HennaListWnd
+Parsing ItemEnchantClassicWnd
+Parsing ItemEnchantWnd
+Parsing L2Util
+Parsing LoadingAniWnd
+Parsing MacroEditWnd
+Parsing MacroInfoWnd
+Parsing MacroListWnd
+Parsing MailBtnWnd
+Parsing ManorCropInfoChangeWnd
+Parsing ManorCropInfoSettingWnd
+Parsing ManorCropSellChangeWnd
+Parsing ManorCropSellWnd
+Parsing ManorInfoWnd
+Parsing ManorSeedInfoChangeWnd
+Parsing ManorSeedInfoSettingWnd
+Parsing ShopWnd
+Parsing ManorShopWnd
+Parsing MenuWnd
+Parsing MinimapWnd
+Parsing MinimapWnd_Expand
+Parsing MultiSellWnd
+Parsing NewDropWnd
+Parsing NoticeWnd
+Parsing ObserverWnd
+Parsing OMGAutoPotionsWnd
+Parsing OMGRadarMapWnd
+Parsing OMGSkillGauge
+Parsing OnScreenDamageWnd
+Parsing OptionWnd
+Parsing PartyWnd
+Parsing PartyWndCompact
+Parsing PCCafeEventWnd
+Parsing PetitionFeedBackWnd
+Parsing PetitionWnd
+Parsing PetWnd
+Parsing QuestAlarmWnd
+Parsing QuestBtnWnd
+Parsing QuitReportDrawerWnd
+Parsing RecipeBookWnd
+Parsing RecipeShopWnd
+Parsing RecipeTreeWnd
+Parsing RefineryWnd
+Parsing RestartMenuWnd
+Parsing SelectDeliverWnd
+Parsing ServerClassicWnd
+Parsing ToolTip
+Parsing ShortcutWnd
+Parsing SideBarWnd
+Parsing SiegeInfoWnd
+Parsing SkillTrainInfoWnd
+Parsing SkillTrainListWnd
+Parsing StatusWnd
+Parsing SystemMenuWnd
+Parsing TargetStatusWnd
+Parsing TeaserSlideWnd
+Parsing TeaserSlideWnd_cn
+Parsing TeaserSlideWnd_e
+Parsing TeaserSlideWnd_j
+Parsing TeaserSlideWnd_ph
+Parsing TeaserSlideWnd_th
+Parsing TeaserSlideWnd_tw
+Parsing TeleportLoadingWnd
+Parsing TradeWnd
+Parsing TrueWnd
+Parsing TutorialBtnWnd
+Parsing TutorialViewerWnd
+Parsing UnionDetailWnd
+Parsing UnionWnd
+Parsing UnrefineryWnd
+Parsing UserPetitionWnd
+Parsing ZoneTitleWnd
+Parsing BenchMarkMenuWnd
+Parsing BoardWnd
+Parsing ChatFilterWnd
+Parsing ClanDrawerWnd
+Parsing CouponEventWnd
+Parsing GametipWnd
+Parsing GuideWnd
+Parsing HelpHtmlWnd
+Parsing HennaInfoWnd
+Parsing HeroTowerWnd
+Parsing InviteClanPopWnd
+Parsing LoadingWnd
+Parsing MainWnd
+Parsing OlympiadBuffWnd
+Parsing OlympiadBuff1Wnd
+Parsing OlympiadBuff2Wnd
+Parsing OlympiadControlWnd
+Parsing OlympiadPlayerWnd
+Parsing OlympiadPlayer1Wnd
+Parsing OlympiadPlayer2Wnd
+Parsing OlympiadTargetWnd
+Parsing OnScreenMessageWnd
+Parsing PartyMatchMakeRoomWnd
+Parsing PartyMatchWndCommon
+Parsing PartyMatchOutWaitListWnd
+Parsing PartyMatchRoomWnd
+Parsing PartyMatchWaitListWnd
+Parsing PartyWndOption
+Parsing PetStatusWnd
+Parsing QuestListWnd
+Parsing RadarContainerWnd
+Parsing RadarWnd
+Parsing RecipeBuyListWnd
+Parsing RecipeBuyManufactureWnd
+Parsing RecipeManufactureWnd
+Parsing ReplayListWnd
+Parsing ReplayLogoWnd
+Parsing ReplayLogoWnd_cn
+Parsing ReplayLogoWnd_e
+Parsing ReplayLogoWnd_j
+Parsing ReplayLogoWnd_k
+Parsing ReplayLogoWnd_th
+Parsing ReplayLogoWnd_tw
+Parsing Shortcut
+Parsing SSQMainBoard
+Parsing SummonedStatusWnd
+Parsing SummonedWnd
+Parsing SystemMsgWnd
+Parsing TownMapWnd
+Compiling UICommonAPI
+Compiling AbnormalStatusWnd
+Compiling ActionWnd
+Compiling AutoBuffWnd
+Compiling AutoPotionsWnd
+Compiling AutoSkillWnd
+Compiling CalculatorWnd
+Compiling CharSelectClassicWnd
+Compiling ChatHideWnd
+Compiling ChatWaitWnd
+Compiling ChatWnd
+Compiling ClanWnd
+Compiling GMClanWnd
+Compiling ContextMenuWnd
+Compiling DeliverWnd
+Compiling DetailStatusWnd
+Compiling GMDetailStatusWnd
+Compiling DialogBox
+Compiling DropWnd
+Compiling DuelManager
+Compiling EulaClassicWnd
+Compiling EventMatchGMFenceWnd
+Compiling EventMatchGMMsgWnd
+Compiling EventMatchGMWnd
+Compiling EventMatchObserverWnd
+Compiling EventMatchSpecialMsgWnd
+Compiling ExpBarWnd
+Compiling FishViewportWnd
+Compiling GMFindTreeWnd
+Compiling InventoryWnd
+Compiling GMInventoryWnd
+Compiling MagicSkillWnd
+Compiling GMMagicSkillWnd
+Compiling QuestTreeWnd
+Compiling GMQuestWnd
+Compiling GMSnoopWnd
+Compiling WarehouseWnd
+Compiling GMWarehouseWnd
+Compiling GMWnd
+Compiling HennaListWnd
+Compiling ItemEnchantClassicWnd
+Compiling ItemEnchantWnd
+Compiling L2Util
+Compiling LoadingAniWnd
+Compiling MacroEditWnd
+Compiling MacroInfoWnd
+Compiling MacroListWnd
+Compiling MailBtnWnd
+Compiling ManorCropInfoChangeWnd
+Compiling ManorCropInfoSettingWnd
+Compiling ManorCropSellChangeWnd
+Compiling ManorCropSellWnd
+Compiling ManorInfoWnd
+Compiling ManorSeedInfoChangeWnd
+Compiling ManorSeedInfoSettingWnd
+Compiling ShopWnd
+Compiling ManorShopWnd
+Compiling MenuWnd
+Compiling MinimapWnd
+Compiling MinimapWnd_Expand
+Compiling MultiSellWnd
+Compiling NewDropWnd
+Compiling NoticeWnd
+Compiling ObserverWnd
+Compiling OMGAutoPotionsWnd
+Compiling OMGRadarMapWnd
+Compiling OMGSkillGauge
+Compiling OnScreenDamageWnd
+Compiling OptionWnd
+Compiling PartyWnd
+Compiling PartyWndCompact
+Compiling PCCafeEventWnd
+Compiling PetitionFeedBackWnd
+Compiling PetitionWnd
+Compiling PetWnd
+Compiling PrivateShopWnd
+Compiling QuestAlarmWnd
+Compiling QuestBtnWnd
+Compiling QuitReportDrawerWnd
+Compiling QuitReportWnd
+Compiling RecipeBookWnd
+Compiling RecipeShopWnd
+Compiling RecipeTreeWnd
+Compiling RefineryWnd
+Compiling RestartMenuWnd
+Compiling SelectDeliverWnd
+Compiling ServerClassicWnd
+Compiling ShortcutWnd
+Compiling SideBarWnd
+Compiling SiegeInfoWnd
+Compiling SkillTrainInfoWnd
+Compiling SkillTrainListWnd
+Compiling StatusWnd
+Compiling SystemMenuWnd
+Compiling TargetStatusWnd
+Compiling TeaserSlideWnd
+Compiling TeaserSlideWnd_cn
+Compiling TeaserSlideWnd_e
+Compiling TeaserSlideWnd_j
+Compiling TeaserSlideWnd_ph
+Compiling TeaserSlideWnd_th
+Compiling TeaserSlideWnd_tw
+Compiling TeleportLoadingWnd
+Compiling ToolTip
+Compiling TradeWnd
+Compiling TrueWnd
+Compiling TutorialBtnWnd
+Compiling TutorialViewerWnd
+Compiling UnionDetailWnd
+Compiling UnionWnd
+Compiling UnrefineryWnd
+Compiling UserPetitionWnd
+Compiling WhispAlertWnd
+Compiling ZoneTitleWnd
+Compiling BenchMarkMenuWnd
+Compiling BoardWnd
+Compiling ChatFilterWnd
+Compiling ClanDrawerWnd
+Compiling CouponEventWnd
+Compiling GametipWnd
+Compiling GuideWnd
+Compiling HelpHtmlWnd
+Compiling HennaInfoWnd
+Compiling HeroTowerWnd
+Compiling InviteClanPopWnd
+Compiling LoadingWnd
+Compiling MainWnd
+Compiling OlympiadBuffWnd
+Compiling OlympiadBuff1Wnd
+Compiling OlympiadBuff2Wnd
+Compiling OlympiadControlWnd
+Compiling OlympiadPlayerWnd
+Compiling OlympiadPlayer1Wnd
+Compiling OlympiadPlayer2Wnd
+Compiling OlympiadTargetWnd
+Compiling OnScreenMessageWnd
+Compiling PartyMatchMakeRoomWnd
+Compiling PartyMatchWndCommon
+Compiling PartyMatchOutWaitListWnd
+Compiling PartyMatchRoomWnd
+Compiling PartyMatchWaitListWnd
+Compiling PartyMatchWnd
+Compiling PartyWndOption
+Compiling PetStatusWnd
+Compiling QuestListWnd
+Compiling RadarContainerWnd
+Compiling RadarWnd
+Compiling RecipeBuyListWnd
+Compiling RecipeBuyManufactureWnd
+Compiling RecipeManufactureWnd
+Compiling ReplayListWnd
+Compiling ReplayLogoWnd
+Compiling ReplayLogoWnd_cn
+Compiling ReplayLogoWnd_e
+Compiling ReplayLogoWnd_j
+Compiling ReplayLogoWnd_k
+Compiling ReplayLogoWnd_th
+Compiling ReplayLogoWnd_tw
+Compiling Shortcut
+Compiling SSQMainBoard
+Compiling SummonedStatusWnd
+Compiling SummonedWnd
+Compiling SystemMsgWnd
+Compiling TownMapWnd
+Importing Defaults for UICommonAPI
+Importing Defaults for AbnormalStatusWnd
+Importing Defaults for ActionWnd
+Importing Defaults for AutoBuffWnd
+Importing Defaults for AutoPotionsWnd
+Importing Defaults for AutoSkillWnd
+Importing Defaults for CalculatorWnd
+Importing Defaults for CharSelectClassicWnd
+Importing Defaults for ChatHideWnd
+Importing Defaults for ChatWaitWnd
+Importing Defaults for ChatWnd
+Importing Defaults for ClanWnd
+Importing Defaults for GMClanWnd
+Importing Defaults for ContextMenuWnd
+Importing Defaults for DeliverWnd
+Importing Defaults for DetailStatusWnd
+Importing Defaults for GMDetailStatusWnd
+Importing Defaults for DialogBox
+Importing Defaults for DropWnd
+Importing Defaults for DuelManager
+Importing Defaults for EulaClassicWnd
+Importing Defaults for EventMatchGMFenceWnd
+Importing Defaults for EventMatchGMMsgWnd
+Importing Defaults for EventMatchGMWnd
+Importing Defaults for EventMatchObserverWnd
+Importing Defaults for EventMatchSpecialMsgWnd
+Importing Defaults for ExpBarWnd
+Importing Defaults for FishViewportWnd
+Importing Defaults for GMFindTreeWnd
+Importing Defaults for InventoryWnd
+Importing Defaults for GMInventoryWnd
+Importing Defaults for MagicSkillWnd
+Importing Defaults for GMMagicSkillWnd
+Importing Defaults for QuestTreeWnd
+Importing Defaults for GMQuestWnd
+Importing Defaults for GMSnoopWnd
+Importing Defaults for WarehouseWnd
+Importing Defaults for GMWarehouseWnd
+Importing Defaults for GMWnd
+Importing Defaults for HennaListWnd
+Importing Defaults for ItemEnchantClassicWnd
+Importing Defaults for ItemEnchantWnd
+Importing Defaults for L2Util
+Importing Defaults for LoadingAniWnd
+Importing Defaults for MacroEditWnd
+Importing Defaults for MacroInfoWnd
+Importing Defaults for MacroListWnd
+Importing Defaults for MailBtnWnd
+Importing Defaults for ManorCropInfoChangeWnd
+Importing Defaults for ManorCropInfoSettingWnd
+Importing Defaults for ManorCropSellChangeWnd
+Importing Defaults for ManorCropSellWnd
+Importing Defaults for ManorInfoWnd
+Importing Defaults for ManorSeedInfoChangeWnd
+Importing Defaults for ManorSeedInfoSettingWnd
+Importing Defaults for ShopWnd
+Importing Defaults for ManorShopWnd
+Importing Defaults for MenuWnd
+Importing Defaults for MinimapWnd
+Importing Defaults for MinimapWnd_Expand
+Importing Defaults for MultiSellWnd
+Importing Defaults for NewDropWnd
+Importing Defaults for NoticeWnd
+Importing Defaults for ObserverWnd
+Importing Defaults for OMGAutoPotionsWnd
+Importing Defaults for OMGRadarMapWnd
+Importing Defaults for OMGSkillGauge
+Importing Defaults for OnScreenDamageWnd
+Importing Defaults for OptionWnd
+Importing Defaults for PartyWnd
+Importing Defaults for PartyWndCompact
+Importing Defaults for PCCafeEventWnd
+Importing Defaults for PetitionFeedBackWnd
+Importing Defaults for PetitionWnd
+Importing Defaults for PetWnd
+Importing Defaults for PrivateShopWnd
+Importing Defaults for QuestAlarmWnd
+Importing Defaults for QuestBtnWnd
+Importing Defaults for QuitReportDrawerWnd
+Importing Defaults for QuitReportWnd
+Importing Defaults for RecipeBookWnd
+Importing Defaults for RecipeShopWnd
+Importing Defaults for RecipeTreeWnd
+Importing Defaults for RefineryWnd
+Importing Defaults for RestartMenuWnd
+Importing Defaults for SelectDeliverWnd
+Importing Defaults for ServerClassicWnd
+Importing Defaults for ShortcutWnd
+Importing Defaults for SideBarWnd
+Importing Defaults for SiegeInfoWnd
+Importing Defaults for SkillTrainInfoWnd
+Importing Defaults for SkillTrainListWnd
+Importing Defaults for StatusWnd
+Importing Defaults for SystemMenuWnd
+Importing Defaults for TargetStatusWnd
+Importing Defaults for TeaserSlideWnd
+Importing Defaults for TeaserSlideWnd_cn
+Importing Defaults for TeaserSlideWnd_e
+Importing Defaults for TeaserSlideWnd_j
+Importing Defaults for TeaserSlideWnd_ph
+Importing Defaults for TeaserSlideWnd_th
+Importing Defaults for TeaserSlideWnd_tw
+Importing Defaults for TeleportLoadingWnd
+Importing Defaults for ToolTip
+Importing Defaults for TradeWnd
+Importing Defaults for TrueWnd
+Importing Defaults for TutorialBtnWnd
+Importing Defaults for TutorialViewerWnd
+Importing Defaults for UnionDetailWnd
+Importing Defaults for UnionWnd
+Importing Defaults for UnrefineryWnd
+Importing Defaults for UserPetitionWnd
+Importing Defaults for WhispAlertWnd
+Importing Defaults for ZoneTitleWnd
+Importing Defaults for BenchMarkMenuWnd
+Importing Defaults for BoardWnd
+Importing Defaults for ChatFilterWnd
+Importing Defaults for ClanDrawerWnd
+Importing Defaults for CouponEventWnd
+Importing Defaults for GametipWnd
+Importing Defaults for GuideWnd
+Importing Defaults for HelpHtmlWnd
+Importing Defaults for HennaInfoWnd
+Importing Defaults for HeroTowerWnd
+Importing Defaults for InviteClanPopWnd
+Importing Defaults for LoadingWnd
+Importing Defaults for MainWnd
+Importing Defaults for OlympiadBuffWnd
+Importing Defaults for OlympiadBuff1Wnd
+Importing Defaults for OlympiadBuff2Wnd
+Importing Defaults for OlympiadControlWnd
+Importing Defaults for OlympiadPlayerWnd
+Importing Defaults for OlympiadPlayer1Wnd
+Importing Defaults for OlympiadPlayer2Wnd
+Importing Defaults for OlympiadTargetWnd
+Importing Defaults for OnScreenMessageWnd
+Importing Defaults for PartyMatchMakeRoomWnd
+Importing Defaults for PartyMatchWndCommon
+Importing Defaults for PartyMatchOutWaitListWnd
+Importing Defaults for PartyMatchRoomWnd
+Importing Defaults for PartyMatchWaitListWnd
+Importing Defaults for PartyMatchWnd
+Importing Defaults for PartyWndOption
+Importing Defaults for PetStatusWnd
+Importing Defaults for QuestListWnd
+Importing Defaults for RadarContainerWnd
+Importing Defaults for RadarWnd
+Importing Defaults for RecipeBuyListWnd
+Importing Defaults for RecipeBuyManufactureWnd
+Importing Defaults for RecipeManufactureWnd
+Importing Defaults for ReplayListWnd
+Importing Defaults for ReplayLogoWnd
+Importing Defaults for ReplayLogoWnd_cn
+Importing Defaults for ReplayLogoWnd_e
+Importing Defaults for ReplayLogoWnd_j
+Importing Defaults for ReplayLogoWnd_k
+Importing Defaults for ReplayLogoWnd_th
+Importing Defaults for ReplayLogoWnd_tw
+Importing Defaults for Shortcut
+Importing Defaults for SSQMainBoard
+Importing Defaults for SummonedStatusWnd
+Importing Defaults for SummonedWnd
+Importing Defaults for SystemMsgWnd
+Importing Defaults for TownMapWnd
+Success - 0 error(s), 0 warning(s)
+Log file closed, 02/21/26 16:29:05
