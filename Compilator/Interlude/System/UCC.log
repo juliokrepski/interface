@@ -1,10 +1,10 @@
-Log: Log file open, 02/21/26 16:29:01
+Log: Log file open, 03/14/26 13:18:46
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows Vista 6.2 (Build: 9200)
 Init: Version: 2110
 Init: Compiled: Jun 19 2007 13:10:06
 Init: Command line: -NoBind
-Init: Base directory: C:\Users\julio\OneDrive\Área de Trabalho\Interface l2eternal\Compilator\Interlude\System\
+Init: Base directory: D:\ServidorL2\Interface l2eternal\Compilator\Interlude\System\
 Init: Character set: Unicode
 Log: Bound to Engine.dll
 Log: Bound to Core.dll
@@ -12,7 +12,7 @@ Init: Object subsystem initialized
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
-Init: CPU Speed=3593.210940 MHz
+Init: CPU Speed=3594.046420 MHz
 Init: Memory total: Phys=2097151K Pagef=4194303K Virt=2097024K
 Init: Working set: 32000 / 159000
 Log: Bound to Editor.dll
@@ -1016,9 +1016,9 @@ Log: Importing Defaults for SummonedStatusWnd
 Log: Importing Defaults for SummonedWnd
 Log: Importing Defaults for SystemMsgWnd
 Log: Importing Defaults for TownMapWnd
-Log: Success: Compiled 117706 line(s), 9052 statement(s).
+Log: Success: Compiled 117678 line(s), 9058 statement(s).
 
-Log: Save=182.517948
+Log: Save=169.288972
 Log: Moving 'Save.tmp' to 'Interface.u'
 Log: Success - 0 error(s), 0 warning(s)
 Exit: Preparing to exit.
@@ -1027,25 +1027,25 @@ Log: Unbound to Engine.dll
 Log: Unbound to Core.dll
 Log: Unbound to Editor.dll
 Exit: Editor shut down
-Log: 16790346453.0ms Unloading: Package Core
-Log: 16790346453.1ms Unloading: Package Editor
-Log: 16790346453.2ms Unloading: Package Engine
+Log: 16815744808.3ms Unloading: Package Core
+Log: 16815744808.4ms Unloading: Package Editor
+Log: 16815744808.5ms Unloading: Package Engine
 Log: Unbound to IpDrv.dll
-Log: 16790346453.9ms Unloading: Package IpDrv
-Log: 16790346454.0ms Unloading: Package UDebugMenu
-Log: 16790346454.1ms Unloading: Package UWindow
+Log: 16815744808.9ms Unloading: Package IpDrv
+Log: 16815744808.9ms Unloading: Package UDebugMenu
+Log: 16815744809.0ms Unloading: Package UWindow
 Log: Unbound to ALAudio.dll
-Log: 16790346454.4ms Unloading: Package ALAudio
+Log: 16815744809.1ms Unloading: Package ALAudio
 Log: Unbound to Fire.dll
-Log: 16790346454.6ms Unloading: Package Fire
+Log: 16815744809.2ms Unloading: Package Fire
 Log: Unbound to NWindow.dll
-Log: 16790346455.6ms Unloading: Package NWindow
+Log: 16815744810.2ms Unloading: Package NWindow
 Log: Unbound to EmuDev.dll
-Log: 16790346456.0ms Unloading: Package EmuDev
-Log: Purging Time : 0.022 sec
-Log: Garbage: objects: 28620; refs: 0, destroyed: 28620, deleted: 27892, delnames: 15695
+Log: 16815744810.5ms Unloading: Package EmuDev
+Log: Purging Time : 0.020 sec
+Log: Garbage: objects: 28628; refs: 0, destroyed: 28628, deleted: 27900, delnames: 15698
 Exit: Object subsystem successfully closed.
 Log: Waiting for file streaming thread to finish...
 Uninitialized: Name subsystem shut down
 Uninitialized: Allocation checking disabled
-Uninitialized: Log file closed, 02/21/26 16:29:05
+Uninitialized: Log file closed, 03/14/26 13:18:50
